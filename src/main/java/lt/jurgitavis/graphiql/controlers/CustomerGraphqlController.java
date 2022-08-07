@@ -1,7 +1,7 @@
 package lt.jurgitavis.graphiql.controlers;
 
-import lt.jurgitavis.graphiql.domain.Customer;
-import lt.jurgitavis.graphiql.domain.Purchase;
+import lt.jurgitavis.graphiql.model.Customer;
+import lt.jurgitavis.graphiql.model.Purchase;
 import lt.jurgitavis.graphiql.repositories.CustomerRepository;
 import lt.jurgitavis.graphiql.repositories.PurchaseRepository;
 import org.springframework.beans.factory.annotation.Autowired;

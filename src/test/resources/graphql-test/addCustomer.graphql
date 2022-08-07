@@ -1,0 +1,6 @@
+mutation addCustomer($name: String) {
+    addCustomer(name: $name) {
+        id
+        name
+    }
+}

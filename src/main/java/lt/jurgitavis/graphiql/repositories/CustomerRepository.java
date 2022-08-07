@@ -1,6 +1,6 @@
 package lt.jurgitavis.graphiql.repositories;
 
-import lt.jurgitavis.graphiql.domain.Customer;
+import lt.jurgitavis.graphiql.model.Customer;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

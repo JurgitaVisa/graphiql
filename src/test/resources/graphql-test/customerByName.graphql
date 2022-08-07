@@ -1,0 +1,9 @@
+query customerByName($name: String) {
+    customersByName(name: $name){
+        id
+        name
+        purchases {
+            id
+        }
+    }
+}

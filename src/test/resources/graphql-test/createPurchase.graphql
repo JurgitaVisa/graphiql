@@ -1,0 +1,6 @@
+mutation createPurchase($customerId: Int){
+    addPurchase(customerId: $customerId){
+        id
+        customerId
+    }
+}

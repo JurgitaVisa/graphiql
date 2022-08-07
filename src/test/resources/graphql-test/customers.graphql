@@ -1,0 +1,9 @@
+query allCustomers {
+    customers {
+        id
+        name
+        purchases {
+            id
+        }
+    }
+}

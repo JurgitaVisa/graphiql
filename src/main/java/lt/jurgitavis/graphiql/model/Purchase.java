@@ -1,4 +1,4 @@
-package lt.jurgitavis.graphiql.domain;
+package lt.jurgitavis.graphiql.model;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;
